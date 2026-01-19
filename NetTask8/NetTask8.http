@@ -1,0 +1,6 @@
+@NetTask8_HostAddress = http://localhost:5263
+
+GET {{NetTask8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Computer Market\\Desktop\\Task\\NetTask8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71920079-35C6-4452-96AD-F4AB156E313A}|NetTask8\\NetTask8.csproj|c:\\users\\computer market\\desktop\\task\\nettask8\\nettask8\\controllers\\filemetadatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71920079-35C6-4452-96AD-F4AB156E313A}|NetTask8\\NetTask8.csproj|solutionrelative:nettask8\\controllers\\filemetadatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71920079-35C6-4452-96AD-F4AB156E313A}|NetTask8\\NetTask8.csproj|c:\\users\\computer market\\desktop\\task\\nettask8\\nettask8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71920079-35C6-4452-96AD-F4AB156E313A}|NetTask8\\NetTask8.csproj|solutionrelative:nettask8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C75FA69-6788-4A40-A992-F7CD15B01667}|DataAccess\\DataAccess.csproj|c:\\users\\computer market\\desktop\\task\\nettask8\\dataaccess\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C75FA69-6788-4A40-A992-F7CD15B01667}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileMetadataController.cs",
+              "DocumentMoniker": "C:\\Users\\Computer Market\\Desktop\\Task\\NetTask8\\NetTask8\\Controllers\\FileMetadataController.cs",
+              "RelativeDocumentMoniker": "NetTask8\\Controllers\\FileMetadataController.cs",
+              "ToolTip": "C:\\Users\\Computer Market\\Desktop\\Task\\NetTask8\\NetTask8\\Controllers\\FileMetadataController.cs",
+              "RelativeToolTip": "NetTask8\\Controllers\\FileMetadataController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:57:10.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Computer Market\\Desktop\\Task\\NetTask8\\DataAccess\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\Context.cs",
+              "ToolTip": "C:\\Users\\Computer Market\\Desktop\\Task\\NetTask8\\DataAccess\\Data\\Context.cs",
+              "RelativeToolTip": "DataAccess\\Data\\Context.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:51:32.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Computer Market\\Desktop\\Task\\NetTask8\\NetTask8\\Program.cs",
+              "RelativeDocumentMoniker": "NetTask8\\Program.cs",
+              "ToolTip": "C:\\Users\\Computer Market\\Desktop\\Task\\NetTask8\\NetTask8\\Program.cs",
+              "RelativeToolTip": "NetTask8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T21:46:02.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

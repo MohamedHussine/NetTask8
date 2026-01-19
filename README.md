@@ -52,7 +52,7 @@ The project is structured into three decoupled layers to ensure **Separation of 
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/task-net.git](https://github.com/your-username/task-net.git)
+    git clone (https://github.com/MohamedHussine/NetTask8.git)
     ```
 
 2.  **Configure Connection String:**
